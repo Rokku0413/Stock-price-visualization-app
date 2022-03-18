@@ -1,4 +1,4 @@
-import pandas  
-import yfinance  
-import altair
-import streamlit
+pandas  
+yfinance  
+altair
+streamlit  
